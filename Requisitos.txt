@@ -1,0 +1,10 @@
+1. Instalar Python versión 3.8, que se adjunta en el repositorio local.
+2. Descomprimir el entorno virtual env.zip
+3. La carpeta ETL esta estructurado de la siguiente forma:
+	app/ 
+	env/
+3. Activar el entorno virtual 
+	.\env\Script\activate
+
+	cd app
+	python main.py

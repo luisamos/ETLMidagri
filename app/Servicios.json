@@ -1,0 +1,18 @@
+{
+  "OGC:WFS_01": {
+     "nombre": "ANA - Unidades HIdrográficas"
+    ,"direccion_web": "https://geo.ana.gob.pe/arcgis/services/SERV_UNIDADES_HIDROGRAFICAS/MapServer/WFSServer?"
+    ,"nombre_capa": "Unidades_hidrograficas"
+    ,"tipo_geometria": "Polygon"     
+    ,"nombre_shp":"Unidades_hidrograficas"
+    ,"ruta_shp": "C:\\Users\\luisamos\\Downloads"                    
+  },
+  "OGC:WFS_02": {
+     "nombre": "SERNANP - ANP de administración Nacional Definitivas"
+    ,"direccion_web": "https://geospatial.sernanp.gob.pe/arcgis_server/services/servicios_ogc/peru_sernanp_0102/MapServer/WFSServer?"
+    ,"nombre_capa": "ANPAdministracionNacionalDefinitivas"
+    ,"tipo_geometria": "MultiPolygon"      
+    ,"nombre_shp":"ANPAdministracionNacionalDefinitivas"
+    ,"ruta_shp": "C:\\Users\\luisamos\\Downloads"                    
+  }
+}

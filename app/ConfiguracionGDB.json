@@ -1,0 +1,28 @@
+{
+    "ORACLE": {
+          "usuario": "sde"
+        ,"contrasena":"sde"
+        ,"servidor":"10.3.0.195"
+        ,"base_datos":"ORCL"
+        ,"puerto":"1521"
+    },                
+    "POSTGRESQL": {
+          "usuario": "consulta2"
+        ,"contrasena":"Minagri2020"
+        ,"servidor":"10.3.0.198"
+        ,"base_datos":"georural"
+    },
+    "INTEROPERABILIDAD": {
+          "usuario": "INTEROPERABILIDAD"
+        ,"contrasena":"D3v3l0p3r$"
+        ,"servidor":"10.50.72.28"
+        ,"puerto":"1521"
+        ,"sid":"cdb1"
+    },
+    "POSTGIS": {
+          "usuario": "postgres"
+        ,"contrasena":"luisamos"
+        ,"servidor":"localhost"
+        ,"base_datos":"sernanp"
+    }
+  }

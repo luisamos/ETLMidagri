@@ -1,0 +1,45 @@
+{
+  "SDE_01": {
+   "pg_nombre": "COMUNIDADES_CAMPESINAS"
+  ,"pg_esquema": "sde"
+  ,"pg_tabla":"p_comunidades_campesinas"
+  ,"pg_columnas": ["objectid", "nom_comunidad", "nom_dpto", "nom_prov", "nom_dist"]
+  ,"pg_tipo_geometria" : "poligono"
+  ,"pg_srid" : 4248        
+  ,"o_esquema": "INTEROPERABILIDAD"
+  ,"o_tabla": "P_COMUNIDADES_CAMPESINAS"
+  ,"nombre_shp":"comunidades_campesinas"
+  ,"ruta_shp": "C:\\Users\\luisamos\\Downloads"                    
+  },
+  "SDE_02": {
+   "pg_nombre": "COMUNIDADES_NATIVAS"
+  ,"pg_esquema": "sde"
+  ,"pg_tabla":"p_comunidades_nativas"
+  ,"pg_columnas": ["objectid", "nom_comunidad", "nom_dpto", "nom_prov", "nom_dist"]
+  ,"pg_tipo_geometria" : "poligono"
+  ,"pg_srid" : 4248        
+  ,"o_esquema": "INTEROPERABILIDAD"
+  ,"o_tabla": "P_COMUNIDADES_NATIVAS"
+  ,"columnas": ["objectid", "nom_comunidad", "nom_dpto", "nom_prov", "nom_dist"]
+  ,"nombre_shp":"comunidades_nativas"
+  ,"ruta_shp": "C:\\Users\\luisamos\\Downloads"                    
+  },
+  "POSTGIS_01": {
+   "pg_nombre": "ANP Administración Nacional Definitivas"
+  ,"pg_esquema": "geo"
+  ,"pg_tabla":"anp_administracion_nacional_definitivas"
+  ,"o_esquema": "INTEROPERABILIDAD"
+  ,"o_tabla": "ANPAdministracionNacionalDefinitivas"
+  ,"nombre_shp":"ANPAdministracionNacionalDefinitivas"
+  ,"ruta_shp": "C:\\Users\\luisamos\\Downloads"                    
+  },
+  "POSTGIS_02": {
+   "pg_nombre": "Áreas de Conservación Regional"
+  ,"pg_esquema": "geo"
+  ,"pg_tabla":"anp_administracion_regional"
+  ,"o_esquema": "INTEROPERABILIDAD"
+  ,"o_tabla": "ANPAdministracionRegional"
+  ,"nombre_shp":"anp_administracion_regional"
+  ,"ruta_shp": "C:\\Users\\luisamos\\Downloads"                    
+  }
+}
